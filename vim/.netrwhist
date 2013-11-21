@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/snoby/Downloads/chrisg/DLNA-Stack/CPE-RP-HomeNet/modules/homenet/user/rovi-sdk/Mediabolic-Source'
+let g:netrw_dirhist_2='/Users/snoby/Downloads/chrisg/DLNA-Stack/CPE-RP-HomeNet/modules/homenet/user/rovi-sdk/Mediabolic-Wrapper'
+let g:netrw_dirhist_3='/Users/snoby/Downloads/dashhls/gstdashdemux'
